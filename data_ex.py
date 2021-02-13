@@ -32,4 +32,5 @@ if __name__ == '__main__' :
     print len(xList)
     print len(xList[0])
     print xList[0]
+    print line
 
